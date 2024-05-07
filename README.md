@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is khosro
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khosro
 ==============================================================================================================================
 
 I’m an enthusiastic Frontend Software Developer with expertise in building web applications with immersive user experiences. Technology has always piqued my curiosity. Software development, creating impactful digital solutions for business applications, and solving engineering problems have been my cup of tea.
